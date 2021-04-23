@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ABCD
+title                    : "ABCD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : ""
 description              : "An amazing website."
 #url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : "https://kbyms104.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
